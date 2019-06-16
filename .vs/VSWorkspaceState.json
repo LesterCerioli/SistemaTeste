@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node-angular-master",
+    "\\node-angular-master\\public",
+    "\\node-angular-master\\public\\js",
+    "\\node-angular-master\\public\\js\\controllers",
+    "\\node-angular-master\\public\\js\\services",
+    "\\node-angular-master\\public\\js\\vendors\\bootstrap",
+    "\\node-angular-master\\public\\partials"
+  ],
+  "SelectedNode": "\\node-angular-master\\public\\js\\controllers\\cliente-list.controller.js",
+  "PreviewInSolutionExplorer": false
+}
